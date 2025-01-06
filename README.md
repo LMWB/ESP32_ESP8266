@@ -22,7 +22,7 @@ I got my self some dev boards and like to explore ...
 ## ESP8266 based projects
 
 ## ESP32 based projects
-- [ESP32 AT-Command Firmware](./ESP32/AT-Command-Set/README.md)
+- [ESP32 AT-Command Firmware](./ESP32/AT-Command-Set)
 
 # Tutorials  
 [Using MQTT on ESP8266](https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker)  
