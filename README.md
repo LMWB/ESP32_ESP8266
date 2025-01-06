@@ -19,9 +19,9 @@ I got my self some dev boards and like to explore ...
 
 
 # Projects
-# ESP8266 based projects
+## ESP8266 based projects
 
-# ESP32 based projects
+## ESP32 based projects
 - [ESP32 AT-Command Firmware](./ESP32/AT-Command-Set/README.md)
 
 # Tutorials  
