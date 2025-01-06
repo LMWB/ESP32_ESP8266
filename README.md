@@ -17,6 +17,7 @@ My Experience with Espressif ESP32 and ESP8266
 
 # Tutorials  
 [Using MQTT on ESP8266](https://www.emqx.com/en/blog/esp8266-connects-to-the-public-mqtt-broker)  
-[ESP32 Cam + PlatformIO – First Project: Flash Light](https://raydiy.de/en/esp32-cam-platformio-first-project-flash-light-hello-world/)  
+[ESP32 Cam + PlatformIO-First Project: Flash Light](https://raydiy.de/en/esp32-cam-platformio-first-project-flash-light-hello-world/)  
 [ESP32-CAM Video Streaming and Face Recognition with Arduino IDE](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)  
 [Get started with Arduino and ESP32-DevKitC: debugging and unit testing](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)  
+[Working with ESP-IDF](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-5#Working_with_ESP-IDF)  
