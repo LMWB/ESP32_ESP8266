@@ -30,3 +30,4 @@ I got my self some dev boards and like to explore ...
 [ESP32-CAM Video Streaming and Face Recognition with Arduino IDE](https://randomnerdtutorials.com/esp32-cam-video-streaming-face-recognition-arduino-ide/)  
 [Get started with Arduino and ESP32-DevKitC: debugging and unit testing](https://docs.platformio.org/en/latest/tutorials/espressif32/arduino_debugging_unit_testing.html)  
 [Working with ESP-IDF](https://www.waveshare.com/wiki/ESP32-S3-Touch-LCD-5#Working_with_ESP-IDF)  
+[Install_Espressif_IDF_Plugin](https://www.waveshare.com/wiki/Install_Espressif_IDF_Plugin_Tutorial#tab1)  
